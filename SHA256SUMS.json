@@ -1,0 +1,47 @@
+{
+  "default_action": "deny",
+  "files": [
+    {
+      "bytes": 322,
+      "path": ".github/workflows/public-audit.yml",
+      "sha256": "0992d197063a6603638c39558e8d1cab322b74ebfba8a3360c786f8b5d8fcb4b"
+    },
+    {
+      "bytes": 19,
+      "path": ".gitignore",
+      "sha256": "862263fa1f46c20f0d1e4dac5ffcc75abd55c08211b2c3864c5f8764b9d87793"
+    },
+    {
+      "bytes": 517,
+      "path": "AGENTS.md",
+      "sha256": "03100c296522cc13620bdb4cfcc9fba42e8f0199944811892eeec54452db1c17"
+    },
+    {
+      "bytes": 1240,
+      "path": "README.md",
+      "sha256": "91e812df2943d87da2e5d2b92352f80bbd09fa881c2f636c2a4a26b301eb257c"
+    },
+    {
+      "bytes": 508,
+      "path": "SECURITY.md",
+      "sha256": "513d1186e707fb367a2d355c926c3ece11cc6ecf2bcfa16e300c0724051ae7d7"
+    },
+    {
+      "bytes": 9888,
+      "path": "scripts/audit_public_tree.py",
+      "sha256": "dba065a80c434fb355b1f7566401f12220453044b2c4981f907706bac4579145"
+    },
+    {
+      "bytes": 7967,
+      "path": "scripts/install_private_studio.py",
+      "sha256": "873d00d45b19f7a03191489db6de8188b335735f535d3edb80333d69b90d08c1"
+    }
+  ],
+  "history_policy": "new-repository-only",
+  "max_file_bytes": 65536,
+  "max_total_bytes": 262144,
+  "private_repository": "lmr1123/chain-pharmacy-content-studio-private",
+  "public_repository": "lmr1123/chain-pharmacy-content-studio",
+  "schema_version": 1,
+  "total_bytes": 20461
+}
